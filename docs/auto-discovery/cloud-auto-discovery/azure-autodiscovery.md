@@ -193,14 +193,6 @@ Microsoft.Network/privateEndpoints/read</td>
 
 ![](/assets/images/Image_15_Cloud_Disc_Azure.png)
 
-### Using SAML
-
-When confirming SAML for Azure, change the Signing Option to "Sign SAML response", this could take a few minutes to apply.
-
-In the Device42 Appliance Manager, ensure that the Username field has a value of **name** (pictured below).
-
-![](/assets/images/azure-saml-2.png)
-
 ### Azure Discovery
 
 ![](/assets/images/image_19_Cloud_Disc_Azure_ViewVirtualDevice.png)
